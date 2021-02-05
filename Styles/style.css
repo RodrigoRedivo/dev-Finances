@@ -110,10 +110,16 @@ button:hover {
 
 /* ==> Header <== */
 header {
-    background: linear-gradient(160deg, #19540a, #00ff91,#00ff91, #19540a);
+    background: linear-gradient(10deg, #00ff91, #079d75,#079d75, #00ff91);
     padding: 2rem 0 10rem;
     text-align: center;
 } 
+
+header img {
+    background: #255553;
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+}
 
 #logo {
     color: var(--cor-white);
@@ -156,7 +162,7 @@ header {
 }
 
 .card.total {
-    background: linear-gradient(160deg, #19540a, #00ff91, #19540a);
+    background: linear-gradient(160deg, #079d75, #00ff91, #00ff91, #079d75);
     color: var(--cor-white);
     font-weight: 1000;
 }
@@ -298,12 +304,17 @@ input {
 
 /* ==> Footer <== */
 footer {
-    margin-top: 83px;
+    margin-top: 129px;
     text-align: center;
     padding: 2.4rem 0 2rem;    
 
-    background: linear-gradient(10deg, #19540a, #00ff91,#00ff91, #19540a);
+    background: linear-gradient(10deg, #00ff91, #079d75,#079d75, #00ff91);
+}
 
+footer img {
+    background: #255553;
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
 }
 
 /* ==> Responsive <== */
