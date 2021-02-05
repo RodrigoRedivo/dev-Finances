@@ -1,9 +1,4 @@
-###### <h2 align="center">	:heavy_check_mark: 🚀 👨‍💻 dev-Finance$ 💵 🚀 :heavy_check_mark:
-</h2>
-
-<h4 align="center">
-    <img alt="dev-finanças" title="developer financas" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/master/Assets/dev-Finances.gif" width="350px" />
-</h4>
+###### Em construção =D
 
 <h3 align="center"> 
 	:rocket: Tecnologias 
