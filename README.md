@@ -1,4 +1,4 @@
-###### Em construção =D
+#### <h2 align="center"> Em construção =D </h2>
 
 <h3 align="center"> 
 	:rocket: Tecnologias 
