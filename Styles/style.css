@@ -21,7 +21,7 @@ html {
 }
 
 body {
-    background:var(--cor-background);
+    background-color: #f0f2f5;
 }
 
 .sr-only {
@@ -53,7 +53,7 @@ h2 {
 
 /* ==> Links & Buttons <==*/
 a {
-    color: #12a454;
+    color: #079d75;
     text-decoration: none;
     font-weight: 1000;
     border: 2px #00ff91 solid;
@@ -116,9 +116,14 @@ header {
 } 
 
 header img {
-    background: #255553;
-    padding: 15px 30px 15px 30px;
+    background: linear-gradient(10deg, #079d75, #00ff91, #00ff91, #079d75);
+    padding: 18px;
     border-radius: 8px;
+    box-shadow: 0 0 1px #00ff91,
+    0 0 2px #00ff91,
+    0 0 4px #00ff91,
+    0 0 8px #00ff91,
+    0 0 16px #00ff91;
 }
 
 #logo {
@@ -172,6 +177,7 @@ header img {
     display: block;
     width: 100%;
     overflow-x: auto;
+    padding-bottom: 180px;
 }
 
 
@@ -304,17 +310,19 @@ input {
 
 /* ==> Footer <== */
 footer {
-    margin-top: 129px;
     text-align: center;
     padding: 2.4rem 0 2rem;    
-
-    background: linear-gradient(10deg, #00ff91, #079d75,#079d75, #00ff91);
 }
 
 footer img {
-    background: #255553;
-    padding: 15px 30px 15px 30px;
+    background: linear-gradient(10deg, #079d75, #00ff91, #00ff91, #079d75);
+    padding: 18px;
     border-radius: 8px;
+    box-shadow: 0 0 1px #079d75,
+    0 0 2px #079d75,
+    0 0 4px #079d75,
+    0 0 8px #079d75,
+    0 0 16px #079d75;
 }
 
 /* ==> Responsive <== */
