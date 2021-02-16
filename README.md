@@ -1,13 +1,9 @@
 #### <h1 align="center">Em Construção</h1>
-
-#### <h2 align="center"> dev.finance$</h2>
-
+<h2 align="center"> 
+	<img alt="dev finances" title="Dev Finances" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/d961af5c020f0e73bde1cf8208c880e80334f995/Assets/logo.svg">
+</h2>
 <h4 align="center">
-<<<<<<< HEAD
-	<img alt="dev finances" title="Dev Finances" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/master/Assets/dev-finances.gif" width="800px" />
-=======
-	<img alt="dev finances" title="Dev Finances" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/master/Assets/dev-Finances.gif" width="800px" />
->>>>>>> a6982252cb7f57d1ae1b781b8bae3cf84f47c638
+	<img alt="dev finances" title="Dev Finances" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/master/Assets/dev.finances.gif" width="800px" 
 </h4>
 
 <h3 align="center"> 
