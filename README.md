@@ -3,7 +3,7 @@
 #### <h2 align="center"> dev.finance$</h2>
 
 <h4 align="center">
-	<img alt="dev finances" title="Dev Finances" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/master/Assets/dev-finances.gif" width="800px" />
+	<img alt="dev finances" title="Dev Finances" src="https://raw.githubusercontent.com/RodrigoRedivo/dev-Finances/master/Assets/dev-Finances.gif" width="800px" />
 </h4>
 
 <h3 align="center"> 
